@@ -1,8 +1,0 @@
-# GPT-6 Sol — Argolink
-
-- Model: gpt-6-sol
-- Intent: model hub and inference integration
-- Model page: https://argolink.io/gh-model-hub-api-integration
-- API docs: https://argolink.io/gh-unified-api-docs
-- Examples: examples/request.sh, examples/client.py
-- Contract: docs/model-contract.md
